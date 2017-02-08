@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1486508457474.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "9A145252",
+    "lastKnownWriteTime" : 0,
+    "last_content_update" : 1486508457474,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "AEF2F78C",
+        "caption" : "tunisia_all_wb",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=tunisia_all_wb&cache_key=AEF2F78C",
+        "displayedObservations" : 1453,
+        "environment" : "",
+        "object" : "tunisia_all_wb",
+        "preview" : 0,
+        "totalObservations" : 1453,
+        "variables" : 62
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
